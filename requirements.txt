@@ -5,7 +5,7 @@ scikit-learn
 sklearn.preprocessing 
 pandas 
 numpy
-matplotlib.pyplot 
+matplotlib
 seaborn 
 time
 streamlit_option_menu
