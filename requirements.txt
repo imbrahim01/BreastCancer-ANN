@@ -1,6 +1,5 @@
 streamlit 
 torch
-torch.nn 
 torch.optim
 sklearn.model_selection
 sklearn.preprocessing 
