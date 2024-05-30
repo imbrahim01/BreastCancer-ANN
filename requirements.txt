@@ -1,0 +1,13 @@
+streamlit 
+torch
+torch.nn 
+torch.optim as optim
+sklearn.model_selection
+sklearn.preprocessing 
+sklearn.metrics 
+pandas 
+numpy
+matplotlib.pyplot 
+seaborn 
+time
+streamlit_option_menu
