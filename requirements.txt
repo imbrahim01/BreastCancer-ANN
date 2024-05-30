@@ -1,7 +1,7 @@
 streamlit 
 torch
 torch.optim
-sklearn.model_selection
+sklearn
 sklearn.preprocessing 
 sklearn.metrics 
 pandas 
