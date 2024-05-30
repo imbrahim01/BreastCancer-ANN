@@ -7,5 +7,4 @@ pandas
 numpy
 matplotlib
 seaborn 
-time
 streamlit_option_menu
